@@ -6,8 +6,8 @@
 // @author       PAWAN MEENA
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
-// @downloadURL  https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
+// @updateURL    	https://github.com/pawan-meena/adsblock_youtube/raw/main/main.user.js
+// @downloadURL  	https://github.com/pawan-meena/adsblock_youtube/raw/main/main.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -48,7 +48,7 @@
     // or want to contribute to this userscript,
     // feel free to create issues or pull requests in the GitHub repository.
     //
-    // GITHUB: https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
+    // GITHUB: 	https://github.com/pawan-meena/adsblock_youtube/raw/main/main.user.js
 
     //
     // Varables used for adblock
@@ -401,7 +401,7 @@
             return;
         }
 
-        const scriptUrl = 'https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js';
+        const scriptUrl = '	https://github.com/pawan-meena/adsblock_youtube/raw/main/main.user.js';
 
         fetch(scriptUrl)
         .then(response => response.text())

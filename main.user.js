@@ -48,7 +48,7 @@
     // or want to contribute to this userscript,
     // feel free to create issues or pull requests in the GitHub repository.
     //
-    // GITHUB: https://github.com/TheRealJoelmatic/RemoveAdblockThing
+    // GITHUB: https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
 
     //
     // Varables used for adblock
@@ -401,7 +401,7 @@
             return;
         }
 
-        const scriptUrl = 'https://raw.githubusercontent.com/TheRealJoelmatic/RemoveAdblockThing/main/Youtube-Ad-blocker-Reminder-Remover.user.js';
+        const scriptUrl = 'https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js';
 
         fetch(scriptUrl)
         .then(response => response.text())

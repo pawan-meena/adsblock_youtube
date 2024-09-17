@@ -6,8 +6,8 @@
 // @author       PAWAN MEENA
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
-// @downloadURL  https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
+// @updateURL    https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
+// @downloadURL  https://github.com/pawan-meena/adsblock_youtube/blob/main/main.user.js
 // @grant        none
 // ==/UserScript==
 

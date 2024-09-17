@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         PAWAN MEENA
+// @name         Ads Blcok Youtube MC
 // @namespace    ---
-// @version      5.6
-// @description  PAWAN MEENA
-// @author       MEENA
+// @version      1
+// @description  remove as well adblock popup 
+// @author       PAWAN MEENA
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @updateURL    https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
